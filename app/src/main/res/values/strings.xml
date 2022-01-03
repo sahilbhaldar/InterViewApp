@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IVSahil</string>
+
+    <string name="name">Name <font color="#FF0000">*</font></string>
+    <string name="mobile_no">Mobile Number <font color="#FF0000">*</font></string>
+    <string name="welcome_n_please_fill_the_all_details">Welcome \n Please fill the all details</string>
+    <string name="save">Save</string>
+    <string name="name_err">Please enter name</string>
+    <string name="mobile_no_err">Please enter valid Number</string>
+    <string name="your_current_location">Your current location</string>
+    <string name="call_to_sahil">Call to Sahil</string>
+    <string name="mail_to_sahil">Mail to Sahil</string>
+</resources>

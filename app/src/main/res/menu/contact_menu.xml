@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tb_call"
+
+        android:title="@string/call_to_sahil"/>
+    <item
+        android:id="@+id/tb_mail"
+
+        android:title="@string/mail_to_sahil"/>
+</menu>
